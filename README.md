@@ -15,7 +15,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=aryanX21\&theme=highcontrast\&hide_border=true\&border_radius=10\&ring=orange\&fire=orange\&currStreakLabel=orange)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryanX21\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=aryanX21\&theme=github-dark-blue\&hide_border=true)
 
 ---
 
