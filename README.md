@@ -1,5 +1,23 @@
 # 👋 Hi, I'm Aryan
-🎓 CSE student building a strong foundation in programming and problem solving<br><br>🧠 About Me<br><br>I am a CSE student focused on building a strong foundation in programming and problem solving.<br><br>Currently, I am learning C++ and Python to develop core coding skills and practical understanding of software development.<br><br>My next focus is on Data Structures and Algorithms (DSA).<br><br>I am particularly interested in writing clean, efficient code and continuously improving my problem-solving ability.<br><br>🎯 Goal:<br>To become a proficient software developer capable of solving real-world problems effectively
+🎓 CSE student building a strong foundation in programming and problem solving
+
+---
+
+## 🧠 About Me
+
+I am a CSE student focused on building a strong foundation in programming and problem solving.
+
+Currently, I am learning C++ and Python to develop core coding skills and practical understanding of software development.
+
+My next focus is on Data Structures and Algorithms (DSA) along with exploring the basics of Artificial Intelligence and Machine Learning.
+
+I am particularly interested in writing clean, efficient code and gradually moving towards building intelligent systems.
+
+---
+
+🎯 **Goal:**
+To become a proficient software developer with strong problem-solving skills and grow into the field of AI/ML.
+
 
 ---
 
